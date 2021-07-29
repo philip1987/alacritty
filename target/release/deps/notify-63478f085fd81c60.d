@@ -1,0 +1,12 @@
+/Users/philip/Code/alacritty/target/release/deps/notify-63478f085fd81c60.rmeta: /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/philip/Code/alacritty/target/release/deps/libnotify-63478f085fd81c60.rlib: /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/philip/Code/alacritty/target/release/deps/notify-63478f085fd81c60.d: /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs:
+/Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs:
+/Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs:
+/Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs:
+/Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs:
+/Users/philip/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs:

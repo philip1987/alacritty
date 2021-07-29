@@ -1,0 +1,1 @@
+/Users/philip/Code/alacritty/target/release/libalacritty_config_derive.dylib: /Users/philip/Code/alacritty/alacritty_config_derive/src/de_enum.rs /Users/philip/Code/alacritty/alacritty_config_derive/src/de_struct.rs /Users/philip/Code/alacritty/alacritty_config_derive/src/lib.rs build.rs
